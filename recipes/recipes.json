@@ -1,0 +1,350 @@
+[
+    {
+    "id": 1,
+    "title": "Cottage Cheese Casserole",
+    "image": "cottage-cheese-casserole",
+    "description": "A delicious and healthy casserole made with cottage cheese and other simple ingredients.",
+    "steps": [
+        {
+            "id": 1,
+            "description": "Preheat oven to 350°F."
+        },
+        {
+            "id": 2,
+            "description": "In a large bowl, mix together cottage cheese, eggs, flour, sugar, melted butter, vanilla extract, salt, and baking powder until well combined."
+        },
+        {
+            "id": 3,
+            "description": "Pour mixture into a greased 9x13 inch baking dish."
+        },
+        {
+            "id": 4,
+            "description": "Bake for 40-45 minutes, or until golden brown and set."
+        },
+        {
+            "id": 5,
+            "description": "Let cool for a few minutes before serving."
+        }
+    ]
+},
+    {
+        "id": 2,
+        "title": "Beef Stroganoff",
+        "image": "beef_stroganoff",
+        "description": "A classic Russian dish made with sautéed beef, onions, mushrooms, and a sour cream sauce.",
+        "steps": [
+            {
+                "id": 1,
+                "description": "In a large skillet, heat butter over medium-high heat. Add beef and cook until browned on all sides, about 5-7 minutes. Remove from heat and set aside."
+            },
+            {
+                "id": 2,
+                "description": "Add onion and mushrooms to the skillet and cook until softened, about 5-7 minutes. Add garlic and cook for an additional 1-2 minutes."
+            },
+            {
+                "id": 3,
+                "description": "Sprinkle flour over the vegetables and stir to combine. Cook for 1-2 minutes, stirring constantly."
+            },
+            {
+                "id": 4,
+                "description": "Slowly add beef broth to the skillet, whisking constantly to prevent lumps from forming. Bring to a simmer and cook until the sauce thickens, about 5-7 minutes."
+            },
+            {
+                "id": 5,
+                "description": "Remove the skillet from heat and stir in sour cream, salt, and black pepper."
+            },
+            {
+                "id": 6,
+                "description": "Add the cooked beef to the skillet and stir to combine."
+            },
+            {
+                "id": 7,
+                "description": "Serve the beef stroganoff over cooked egg noodles."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Chicken Alfredo",
+        "image": "chicken_alfredo",
+        "description": "A creamy pasta dish made with chicken, fettuccine, and a Parmesan cream sauce.",
+        "steps": [
+            {
+                "id": 1,
+                "description": "Bring a large pot of salted water to a boil. Add fettuccine and cook until al dente, about 8-10 minutes."
+            },
+            {
+                "id": 2,
+                "description": "While the fettuccine is cooking, heat a large skillet over medium-high heat. Add chicken and cook until browned and cooked through, about 8-10 minutes. Remove from heat and set aside."
+            },
+            {
+                "id": 3,
+                "description": "In a medium saucepan, melt butter over medium heat. Add garlic and cook until fragrant, about 1 minute."
+            },
+            {
+                "id": 4,
+                "description": "Add heavy cream, Parmesan cheese, salt, and black pepper to the saucepan and bring to a simmer, stirring frequently."
+            },
+            {
+                "id": 5,
+                "description": "Cook the sauce until it thickens, about 5-7 minutes."
+            },
+            {
+                "id": 6,
+                "description": "Once the fettuccine is cooked, reserve 1 cup of pasta water, then drain the pasta and return it to the pot."
+            },
+            {
+                "id": 7,
+                "description": "Pour the sauce over the fettuccine and toss to coat the pasta, adding reserved pasta water as needed to create a creamy sauce."
+            },
+            {
+                "id": 8,
+                "description": "Add the cooked chicken to the pasta and toss to combine."
+            },
+            {
+                "id": 9,
+                "description": "Serve hot, garnished with additional Parmesan cheese and black pepper, if desired."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Spaghetti Carbonara",
+        "image": "spaghetti_carbonara",
+        "description": "A classic Italian pasta dish made with spaghetti, eggs, pancetta or bacon, and Parmesan cheese.",
+        "steps": [
+            {
+                "id": 1,
+                "description": "Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente, about 8-10 minutes."
+            },
+            {
+                "id": 2,
+                "description": "While the spaghetti is cooking, heat a large skillet over medium heat. Add pancetta or bacon and cook until crispy, about 8-10 minutes. Remove from heat and set aside."
+            },
+            {
+                "id": 3,
+                "description": "In a medium bowl, whisk together eggs, Parmesan cheese, salt, and black pepper."
+            },
+            {
+                "id": 4,
+                "description": "Once the spaghetti is cooked, reserve 1 cup of pasta water, then drain the spaghetti and return it to the pot."
+            },
+            {
+                "id": 5,
+                "description": "Immediately pour the egg mixture over the spaghetti and toss to coat the pasta, adding reserved pasta water as needed to create a creamy sauce."
+            },
+            {
+                "id": 6,
+                "description": "Immediately pour the egg mixture over the spaghetti and toss to coat the pasta, adding reserved pasta water as needed to create a creamy sauce."
+            },
+            {
+                "id": 7,
+                "description": "Serve hot, garnished with additional Parmesan cheese and black pepper, if desired."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Chicken Fajitas",
+        "image": "chicken_fajitas",
+        "description": "These chicken fajitas are a quick and easy meal that's perfect for weeknights. Juicy chicken, colorful peppers, and onions are seasoned with a blend of spices and served with warm tortillas.",
+        "steps": [
+            {
+                "id": 1,
+                "description": "In a small bowl, combine chili powder, cumin, garlic powder, onion powder, paprika, salt, and black pepper."
+            },
+            {
+                "id": 2,
+                "description": "In a large skillet, heat olive oil over medium-high heat. Add chicken and cook for 5-7 minutes or until cooked through."
+            },
+            {
+                "id": 3,
+                "description": "Add bell peppers, onion, and spice mixture to the skillet. Cook for an additional 5-7 minutes or until vegetables are tender."
+            },
+            {
+                "id": 4,
+                "description": "Serve chicken and vegetables with warm tortillas and optional toppings, if desired."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Classic Lasagna",
+        "image": "classic_lasagna",
+        "description": "This classic lasagna recipe is a family favorite that never gets old. Layers of pasta, meat sauce, and cheese make for a delicious and comforting meal.",
+        "steps": [
+            {
+                "id": 1,
+                "description": "In a large skillet, cook beef, onion, and garlic over medium heat until meat is no longer pink; drain."
+            },
+            {
+                "id": 2,
+                "description": "Stir in crushed tomatoes, tomato paste, parsley, basil, salt, and pepper. Bring to a boil; reduce heat and simmer for 30 minutes."
+            },
+            {
+                "id": 3,
+                "description": "Meanwhile, cook lasagna noodles according to package directions; drain."
+            },
+            {
+                "id": 4,
+                "description": "In a small bowl, combine ricotta cheese and egg."
+            },
+            {
+                "id": 5,
+                "description": "Preheat oven to 375°F."
+            },
+            {
+                "id": 6,
+                "description": "Spread 1 cup meat sauce in an ungreased 9x13 inch baking dish. Layer with three lasagna noodles, 1-1/2 cups meat sauce, 1 cup ricotta mixture, and 1 cup mozzarella cheese. Repeat layers twice. Sprinkle with Parmesan cheese."
+            },
+            {
+                "id": 7,
+                "description": "Cover and bake for 25 minutes. Uncover; bake 25 minutes longer or until bubbly. Let stand for 15 minutes before serving. If desired, sprinkle with additional parsley."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Spaghetti with Meatballs",
+        "image": "spaghetti_with_meatballs",
+        "description": "A classic Italian dish made with spaghetti and homemade meatballs in tomato sauce.",
+        "steps": [
+            {
+                "id": 1,
+                "description": "Cook spaghetti according to package instructions, drain and set aside."
+            },
+            {
+                "id": 2,
+                "description": "In a large bowl, mix ground beef, breadcrumbs, milk, egg, Parmesan cheese, parsley, 1/2 teaspoon salt and 1/4 teaspoon black pepper. Shape into 1-inch meatballs."
+            },
+            {
+                "id": 3,
+                "description": "In a large skillet over medium heat, cook meatballs until browned on all sides. Remove from skillet and set aside."
+            },
+            {
+                "id": 4,
+                "description": "In the same skillet, add onion and garlic and cook until softened."
+            },
+            {
+                "id": 5,
+                "description": "Add tomatoes, sugar, red pepper flakes, salt, and black pepper. Simmer for 10 minutes."
+            },
+            {
+                "id": 6,
+                "description": "Add meatballs to the tomato sauce and cook for another 10 minutes."
+            },
+            {
+                "id": 7,
+                "description": "Serve hot over cooked spaghetti."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Caesar Salad",
+        "image": "caesar-salad",
+        "description": "A classic Caesar Salad recipe made with crisp romaine lettuce, crunchy croutons, and a creamy dressing.",
+        "steps": [
+            {
+                "id": 1,
+                "description": "In a large bowl, whisk together olive oil, lemon juice, Dijon mustard, garlic, salt, and pepper to make the dressing."
+            },
+            {
+                "id": 2,
+                "description": "Add chopped romaine lettuce to the bowl and toss to coat with the dressing."
+            },
+            {
+                "id": 3,
+                "description": "Top with croutons and grated Parmesan cheese."
+            },
+            {
+                "id": 4,
+                "description": "Serve immediately and enjoy!"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Homemade Pizza",
+        "image": "homemade-pizza",
+        "description": "A delicious homemade pizza recipe topped with your favorite toppings.",
+        "steps": [
+            {
+                "id": 1,
+                "description": "Preheat oven to 425°F."
+            },
+            {
+                "id": 2,
+                "description": "Roll out the pizza dough on a floured surface until it is the desired thickness and shape."
+            },
+            {
+                "id": 3,
+                "description": "Transfer the pizza dough to a greased baking sheet or pizza stone."
+            },
+            {
+                "id": 4,
+                "description": "Spread tomato sauce evenly over the pizza dough, leaving a small border around the edges."
+            },
+            {
+                "id": 5,
+                "description": "Sprinkle shredded mozzarella cheese over the tomato sauce."
+            },
+            {
+                "id": 6,
+                "description": "Add your desired toppings to the pizza."
+            },
+            {
+                "id": 7,
+                "description": "Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly."
+            },
+            {
+                "id": 8,
+                "description": "Let cool for a few minutes before slicing and serving."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Classic Chocolate Cake",
+        "image": "classic-chocolate-cake",
+        "description": "A classic chocolate cake recipe that is moist, rich, and delicious.",
+        "steps": [
+            {
+                "id": 1,
+                "description": "Preheat oven to 350°F."
+            },
+            {
+                "id": 2,
+                "description": "Grease and flour two 9-inch round cake pans."
+            },
+            {
+                "id": 3,
+                "description": "In a large bowl, whisk together flour, sugar, cocoa powder, baking powder, baking soda, and salt."
+            },
+            {
+                "id": 4,
+                "description": "Add milk, vegetable oil, eggs, and vanilla extract to the bowl and mix until well combined."
+            },
+            {
+                "id": 5,
+                "description": "Stir in boiling water until the batter is smooth and well combined."
+            },
+            {
+                "id": 6,
+                "description": "Divide the batter evenly between the prepared cake pans."
+            },
+            {
+                "id": 7,
+                "description": "Bake for 30-35 minutes, or until a toothpick inserted into the center of the cake comes out clean."
+            },
+            {
+                "id": 8,
+                "description": "Let the cakes cool in the pans for 10 minutes before removing them from the pans and placing them on a wire rack to cool completely."
+            },
+            {
+                "id": 9,
+                "description": "Frost and decorate the cake as desired and serve."
+            }
+        ]
+    }
+]
